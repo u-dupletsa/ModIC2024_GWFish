@@ -1,0 +1,28 @@
+H1:
+  azimuth: 2.998475654926258
+  detector_class: earthL
+  df: 0.25
+  duty_factor: 0.85
+  fmax: 2048
+  fmin: 2
+  lat: 0.8107054375513661
+  lon: -2.084097659806429
+  npoints: 5000
+  opening_angle: 1.5707963267948966
+  plotrange: 10, 1000, 1e-25, 1e-20
+  psd_data: /Users/ulyana/Documents/GSSI/Year IV/Workshops/Trieste/ModIC2024_GWFish/data/psd_IMRPhenomXPHM_IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_mixed_cosmo_H1.txt
+  spacing: geometric
+L1:
+  azimuth: 3.4505159311927893
+  detector_class: earthL
+  df: 0.25
+  duty_factor: 0.85
+  fmax: 2048
+  fmin: 2
+  lat: 0.5333726194094671
+  lon: -1.584235362035253
+  npoints: 5000
+  opening_angle: 1.5707963267948966
+  plotrange: 10, 1000, 1e-25, 1e-20
+  psd_data: /Users/ulyana/Documents/GSSI/Year IV/Workshops/Trieste/ModIC2024_GWFish/data/psd_IMRPhenomXPHM_IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_mixed_cosmo_L1.txt
+  spacing: geometric
